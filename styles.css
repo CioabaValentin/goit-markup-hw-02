@@ -125,7 +125,7 @@ a.logo .studio {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2E2F42;
+    color: #2e2f42;
 }
 
 .footer {
@@ -133,7 +133,13 @@ a.logo .studio {
 }
 
 a.logo .studio-footer {
-    color: #F4F4FD;
+    color: #4d5ae5;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
 }
 
 .footer-p {
@@ -142,4 +148,5 @@ a.logo .studio-footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+    background-color: #2e2f42;
 }
