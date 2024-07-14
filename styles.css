@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 
-a.logo {
+.logo {
     color: #4D5AE5;
     text-transform: uppercase;
     text-decoration: none;
@@ -15,7 +15,7 @@ a.logo {
     letter-spacing: 0.03em;
 }
 
-a.logo .studio {
+.logo .studio {
     color: #2E2F42;
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
