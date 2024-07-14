@@ -57,7 +57,7 @@ a {
     color: var(--iris);
 }
 
-.header-nav .ul .li:first-child .a {
+.header-nav ul li:first-child a {
     color: #2e2f42;
 }
 
