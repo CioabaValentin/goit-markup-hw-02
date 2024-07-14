@@ -57,14 +57,14 @@ a {
     color: var(--iris);
 }
 
-.header-nav ul li:first-child a {
-    color: var(--navy-blue);
-}
-
 .header-link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: var(--navy-blue);
+}
+
+.header-nav ul li:first-child a {
     color: var(--navy-blue);
 }
 
