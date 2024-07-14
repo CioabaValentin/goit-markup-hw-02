@@ -132,21 +132,30 @@ body {
     background-color: #2e2f42;
 }
 
-a.logo .studio-footer {
+.logo{
     color: #4d5ae5;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-    line-height: 1.17;
-    font-size: 18px;
-    font-weight: 700;
-    font-family: "Raleway", sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        line-height: 1.17;
+        font-size: 18px;
+        font-weight: 700;
+        font-family: "Raleway", sans-serif;
 }
 
-.footer-p {
+.logo .studio-footer {
+color: #2e2f42;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;}
+
+.footer-p{
     font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-    background-color: #2e2f42;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+        background-color: #2e2f42;
 }
