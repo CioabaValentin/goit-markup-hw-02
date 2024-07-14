@@ -57,15 +57,11 @@ a {
     color: var(--iris);
 }
 
-.header-nav ul li:first-child .header-link {
-    color: #2e2f42;
-}
-
 .header-link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    ### CSS Corectat (continuare) ```css color: var(--navy-blue);
+    color: var(--navy-blue);
 }
 
 .header-link:hover,
