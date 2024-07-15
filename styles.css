@@ -64,9 +64,8 @@ a {
     color: var(--navy-blue);
 }
 
-.header-nav ul li:first-child a {
-    color: var(--navy-blue);
-}
+.header #header-nav > ul .first-nav-links > a{
+    color: #2e2f42}
 
 .header-link:hover,
 .header-link:focus {
