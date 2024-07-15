@@ -64,7 +64,7 @@ a {
     color: var(--navy-blue);
 }
 
-.header #header-nav > ul .first-nav-links > a{
+header{
     color: #2e2f42}
 
 .header-link:hover,
