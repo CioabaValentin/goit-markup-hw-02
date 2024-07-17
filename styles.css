@@ -56,6 +56,9 @@ a {
     text-transform: uppercase;
     color: var(--iris);
 }
+.header-logo-second-part{
+    color:var(--navy-blue)
+}
 
 .header-link {
     font-weight: 500;
@@ -64,9 +67,6 @@ a {
     color: var(--navy-blue);
 }
 
-.first-nav-link{
-color: var(--navy-blue)
-}
 
 
 .header-link:hover,
