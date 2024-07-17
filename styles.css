@@ -53,8 +53,7 @@ a {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: var(--iris);
+    text-transform: uppercase;;
 }
 .header-logo-first-part{
 color:var(--iris);
