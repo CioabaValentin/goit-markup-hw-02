@@ -53,13 +53,14 @@ a {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;;
+    text-transform: uppercase;
+    color: var(--iris);
 }
 .header-logo-first-part{
 color:var(--iris);
 }
 
-.header-logo-second-part{
+.header .header-nav .header-logo-second-part{
     color:#2e2f42;
 }
 
