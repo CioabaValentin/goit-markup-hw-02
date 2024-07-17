@@ -64,8 +64,10 @@ a {
     color: var(--navy-blue);
 }
 
-header{
-    color: #2e2f42}
+.first-nav-link{
+color: var(--navy-blue)
+}
+
 
 .header-link:hover,
 .header-link:focus {
