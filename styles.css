@@ -67,14 +67,15 @@ color:var(--iris);
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--navy-blue);
+    color: #2e2f42
 }
 
 
 
 .header-link:hover,
 .header-link:focus {
-    color: #404bbf;
+    color: var(--ocean);
 }
 
 address {
