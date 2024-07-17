@@ -73,8 +73,7 @@ color:var(--iris);
 
 
 
-.header-link:hover,
-.header-link:focus {
+.header-link:hover, .header-link:focus {
     color: var(--ocean);
 }
 
