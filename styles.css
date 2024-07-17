@@ -56,8 +56,12 @@ a {
     text-transform: uppercase;
     color: var(--iris);
 }
+.header-logo-first-part{
+color:#2e2f42
+}
+
 .header-logo-second-part{
-    color:var(--navy-blue)
+    color:#2e2f42
 }
 
 .header-link {
