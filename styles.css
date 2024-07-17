@@ -75,7 +75,7 @@ color:var(--iris);
 
 .header-link:hover,
 .header-link:focus {
-    color: var(--ocean);
+    color: #404bbf;
 }
 
 address {
